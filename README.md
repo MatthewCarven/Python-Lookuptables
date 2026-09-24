@@ -3,3 +3,7 @@ Um like this is memory greedy disk based lookup prediction, I.E. you tell me wha
 <img width="468" height="221" alt="image" src="https://github.com/user-attachments/assets/937de5d1-ab67-4270-95aa-87a64f7bfef6" />
 
 
+
+## C# port
+
+There is a C# / .NET 10 port of these lookup tables, benchmarked against the built-in .NET collections (`HashSet`, `FrozenSet`, sorted lists and more), at [CSharp-Lookuptables](https://github.com/MatthewCarven/CSharp-Lookuptables).
